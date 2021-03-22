@@ -1,6 +1,6 @@
 # composerx
 
-Composer launcher
+Composer Installer & Launcher
 
 
 ```console
